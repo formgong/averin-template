@@ -45,6 +45,8 @@ Blocks rise into view as you scroll and headings come up word by word. With `pre
 
 **Images.** The twelve photos were generated for this template with ChatGPT image generation (OpenAI) and saved as WebP, about 880 KB in all. The people and places are fictional. The prompts are in `img-prompts.json`. You may use the photos in your own site, but replace them with photos of your own clinic and team before launch. Until a photo is there, its frame shows a soft green placeholder.
 
+The "Powered by Formgong" links point to `https://formgong.com/review-page/fk_your_access_key`, so the same find and replace covers them. Once your key is in, the first click from your published site makes your own public review page on Formgong, where clients read and leave reviews, and every later click opens it. Switch the page off in Formgong (Reviews → your site → Settings) or change those links.
+
 ## Українська
 
 Світлий односторінковий сайт для приватної клініки: сімейні лікарі, чекапи, лабораторія і вузькі спеціалісти. Клініка Averin, лікарі, адреса, ціни, цифри та відгуки вигадані, це зразок вмісту.
@@ -73,3 +75,5 @@ Blocks rise into view as you scroll and headings come up word by word. With `pre
 **Зображення:** дванадцять фото згенеровано для цього шаблону в ChatGPT (OpenAI) і збережено у WebP, разом близько 880 КБ. Люди й місця вигадані, промпти лежать у `img-prompts.json`. Фото можна використовувати, але перед запуском замініть їх знімками своєї клініки та команди. Поки фото немає, у рамці видно м'яку зелену заглушку.
 
 MIT license.
+
+Посилання «Powered by Formgong» ведуть на `https://formgong.com/review-page/fk_your_access_key`, тож та сама заміна ключа оновить і їх. Коли ключ стоїть, перший перехід з вашого опублікованого сайту створює вашу публічну сторінку відгуків на Formgong, де клієнти читають і залишають відгуки; далі посилання відкриває її. Вимкнути сторінку можна у Formgong (Відгуки → ваш сайт → Налаштування) або змінити ці посилання.
